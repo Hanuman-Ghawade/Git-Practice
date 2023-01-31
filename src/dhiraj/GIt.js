@@ -3,7 +3,18 @@ import React from "react";
 const Git = () => {
     return (
         <div>
-        <text> Hi this is git file</text>
+            <h1> Hello World</h1>
+            <h1> Hello World</h1>
+            <h1> Hello World</h1>
+            <h1> Hello World</h1>
+            <h1> Hello World</h1>
+            <h1> Hello World</h1>
+            <h1> Hello World</h1>
+            <h1> Hello World</h1>
+
+
         </div>
     )
 }
+
+export default Git;
