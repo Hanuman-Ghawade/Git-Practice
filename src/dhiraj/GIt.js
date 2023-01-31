@@ -3,7 +3,7 @@ import React from "react";
 const Git = () => {
     return (
         <div>
-            Dhiraj
+        <text> Hi this is git file</text>
         </div>
     )
 }
