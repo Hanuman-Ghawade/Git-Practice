@@ -13,6 +13,7 @@ export default function TestPage() {
       <h1>Hanuman Ghawade</h1>
       <h1>Beed</h1>
       <h1>Software engineer</h1>
+      <h1> I have completed the bachelor degree</h1>
     </div>
   );
 }
