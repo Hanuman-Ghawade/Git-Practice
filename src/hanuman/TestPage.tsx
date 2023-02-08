@@ -6,7 +6,10 @@ export default function TestPage() {
 
   return (
     <div className="test">
-      <h1>{testData}</h1>
+      <h1>My Name is Pravin</h1>
+      <h1>Pune</h1>
+      <h1>Software Engineer</h1>
+
     </div>
   );
 }
