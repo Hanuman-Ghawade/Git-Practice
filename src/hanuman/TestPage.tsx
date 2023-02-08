@@ -10,6 +10,9 @@ export default function TestPage() {
       <h1>Pune</h1>
       <h1>Software Engineer</h1>
 
+      <h1>Hanuman Ghawade</h1>
+      <h1>Beed</h1>
+      <h1>Software engineer</h1>
     </div>
   );
 }
