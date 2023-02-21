@@ -3,7 +3,7 @@ import React from "react";
 const Git = () => {
     return (
         <div>
-            Pravin
+            Pravin Gardade
         </div>
     )
 }
