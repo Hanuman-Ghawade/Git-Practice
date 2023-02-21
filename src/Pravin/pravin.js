@@ -6,6 +6,7 @@ const Git = () => {
             Pravin
             <h1>Welcome to Pune</h1>
             <h1>Welcome to Mumbai</h1>
+             <h1>Welcome to Delhi</h1>
             <p>Home </p>
             <p>Hi Pune</p>
         </div>
